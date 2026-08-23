@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F73D70&width=435&lines=%60%60hmph...+did+you+forget+me%3F%60%60;%60%60forget+you%3F+like+i'd+ever.%60%60;%60%60see+you+around%2C+phainon+of+aedes+elysiae.%60%60;%60%60it's+a+date%2C+mydeimos.%60%60" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
 <img width="230" height="200" alt="755da4145c9496a0e5b8fb9e051e436a" src="https://github.com/user-attachments/assets/8101c118-906d-4ac3-9823-b5b2bc1fbe35" />
 <img width="230" height="200" alt="8a80ef42024d98c25b11d5c615e83078" src="https://github.com/user-attachments/assets/3d80b821-75db-473f-82be-805f3bda44e9" />
 </p>
