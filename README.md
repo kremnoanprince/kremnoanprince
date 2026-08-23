@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://mydeimoss.atabook.org/">𝓪𝓽𝓪𝓫𝓸𝓸𝓴</a> ✦ <a href="https://artsfromyou.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮
-</a> 
+.<a href="https://mydeimoss.atabook.org/">𝓪𝓽𝓪𝓫𝓸𝓸𝓴</a>. ✦ .<a href="https://artsfromyou.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮
+</a>. 
 </p>
 
 
