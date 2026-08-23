@@ -15,6 +15,18 @@
 <img width="230" height="200" alt="8a80ef42024d98c25b11d5c615e83078" src="https://github.com/user-attachments/assets/3d80b821-75db-473f-82be-805f3bda44e9" />
 </p>
 
+<p align="left">
+``𝓎𝑜𝓊 𝒸𝒶𝓃 𝓌𝓇𝒾𝓉𝑒?!``
+</p>
+
+<p align="center">
+⋆✴︎˚｡⋆
+</p>
+
+<p align="right">
+``...𝓎𝑜𝓊 𝓈𝓅𝑒𝒶𝓀 𝒶𝓈 𝒾𝒻 𝓎𝑜𝓊 𝒹𝑜𝓃'𝓉 𝒽𝒶𝓋𝑒 𝒶 𝒷𝓇𝒶𝒾𝓃.``
+</p>
+
 <p align="center">
 <img width="640" height="360" alt="efc2906cc79a036040358f0bcd89b9dbcc18f0cc" src="https://github.com/user-attachments/assets/0842b632-54cd-4525-8489-a5d35a8da444" />
 </p>
