@@ -1,4 +1,10 @@
 <p align="center">
+<a href="https://mydeimoss.atabook.org/">𝓪𝓽𝓪𝓫𝓸𝓸𝓴</a> ✦ <a href="https://artsfromyou.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮
+</a> 
+</p>
+
+
+<p align="center">
 <img width="435" height="400" alt="2cd5c8e481630bb5d936a98dd3e70c7a" src="https://github.com/user-attachments/assets/fca9af8e-f0de-4dbc-99ba-5a35db33404c" />
 </p>
 
