@@ -1,5 +1,5 @@
 <p align="center">
-.<a href="https://kaysome.atabook.org/">𝓪𝓽𝓪𝓫𝓸𝓸𝓴</a>. ✦ .<a href="https://artsfromyou.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮
+.<a href="https://kaysome.atabook.org/">𝓪𝓽𝓪𝓫𝓸𝓸𝓴</a>. ✦ .<a href="https://kaykies.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮
 </a>. 
 </p>
 
